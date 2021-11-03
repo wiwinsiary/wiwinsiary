@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Tugas Pemrograman Berbasis Web</title>
+</head>
+<body style= "background-color :blue;">
+<div style= "background-color :grey;" align="center"><h1>CURICULUM VITAE</h1>
+</div>
+<div style="margin-left:150;">
+<h2>Identitas Pribadi</h2>
+<table width="500">
+<tr>
+<td>Nama </td>
+<td> : Wiwin Siary </td>
+<td rowspan="6" height="100"><p><img src="ws.jpg" width="200" height="200" /></p>
+</td></tr>
+<tr>
+<td>Tempat, tanggal lahir </td>
+<td> : Koto Patah, 20 Januari 1999 </td>
+</tr>
+<tr>
+<td>Jenis Kelamin   </td>
+<td> : Laki-laki </td>
+</tr>
+<tr>
+<td>Agama </td>
+<td> : Islam </td>
+</tr>
+<tr>
+<td>Alamat </td>
+<td> : Lorong Kapt.Joko No.49, RT.9, Simpng IV Sipin, Jambi Timur</td>
+</tr>
+<tr>
+<td>Email </td>
+<td> : wiwinsiary@gmail.com</td>
+</tr>
+</table>
+<h2>Riwayat Pendidikan</h2>
+<ul>
+<li>Pendidikan Formal</li>
+<br/>
+<table border="1" cellpadding="1" cellspacing="1.5" width="450">
+<tr>
+<td><b>Tingkatan Pendidikan<b/></td>
+<td><b>LULUS</b></td>
+</tr>
+<tr>
+<td>SDN 81 Koto Patah</td>
+<td>2011</td>
+</tr>
+<tr>
+<td>SMP Negeri 3 Kota Sungai Penuh</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>SMA Negeri 1 Kota Sungai Penuh</td>
+<td>2017</td>
+</tr>
+<tr>
+<td>Universitas Nurdin Hamzah</td>
+<td> Semester 5</td>
+</tr>
+</table>
+<br/>
+</body>
+</html>
